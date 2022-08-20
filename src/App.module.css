@@ -1,17 +1,12 @@
-.App {
-  text-align: center;
+body{
+  background-color: #4e51f0;
+  color: #ddd;
+  padding: 50px;
   display:flex;
   flex-direction:column;
-  justify-content: center;
-  align-items: center
+  justify-content: space-between;
 }
-.resultConvert{
-  display:flex;
-  flex-direction:row;
-  justify-content:space-around;
-  padding-top: 50px;
-  box-shadow: 15px 8px 20px 6px;
-  width:800px;
-  height:200px;
-  margin-top: 30px;
+.title{
+  color: #eef;
+  text-align: center;
 }
